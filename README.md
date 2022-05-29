@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlimenOuni
 - 👀 I’m interested in motorsport, coding and memes
 - 🌱 I’m currently learning full stak dev
-- 💞️ I’m looking to collaborate on building chat application
+- 💞️ I’m looking to collaborate on building chat applications
 - 📫 How to reach me slimen.ouni@esen.tn
 
 <!---

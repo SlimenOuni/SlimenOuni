@@ -6,7 +6,7 @@
 
 
 
-![Alt text](<https://giphy.com/gifs/emote-catjam-jpbnoe3UIa8TU8LM13?raw=true>)
+![Alt text](<https://github.com/SlimenOuni/catto/blob/main/giphy.gif?raw=true>)
 
 
 

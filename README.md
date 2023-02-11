@@ -5,8 +5,8 @@
 - 📫 How to reach me slimen.ouni@esen.tn
 
 
-
-![Alt text](<https://media0.giphy.com/media/XS1y7UX86TebFCDmlr/giphy.gif?cid=790b7611d2ba6928270bed9026a960003fbb42e60aac6237&rid=giphy.gif&ct=g?raw=true>)
+My GIF 
+![](https://github.com/SlimenOuni/SlimenOuni/blob/main/giphy.gif)
 
 
 

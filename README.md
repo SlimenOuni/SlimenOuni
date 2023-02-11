@@ -6,7 +6,7 @@
 
 
 
-![Alt text](<https://github.com/SlimenOuni/catto/blob/main/giphy.gif?raw=true>)
+![Alt text](<https://s12.aconvert.com/convert/p3r68-cdx67/a8e20-r1bmj.gif?raw=true>)
 
 
 
